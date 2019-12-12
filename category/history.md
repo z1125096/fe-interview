@@ -1,6 +1,24 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第239天 (2019.12.11)
+    - [html] [table由哪几部分组成？](https://github.com/haizlin/fe-interview/issues/1628)
+    - [css] [css中兼容ie浏览器的前缀是什么? ](https://github.com/haizlin/fe-interview/issues/1629)
+    - [js] [写一个方法从数组中随机抽取N个不重复的元素](https://github.com/haizlin/fe-interview/issues/1630)
+    - [软技能] [你有参加过技术讨论会或者座谈会相关的活动吗？](https://github.com/haizlin/fe-interview/issues/1631)
+
+- 第238天 (2019.12.10)
+    - [html] [浏览器怪异模式的怪异主要体现在哪方面呢？](https://github.com/haizlin/fe-interview/issues/1624)
+    - [css] [请问触发hasLayout的后果是什么？](https://github.com/haizlin/fe-interview/issues/1625)
+    - [js] [遍历数组和对象的方法都有哪些？](https://github.com/haizlin/fe-interview/issues/1626)
+    - [软技能] [说下你对感染力的理解](https://github.com/haizlin/fe-interview/issues/1627)
+
+- 第237天 (2019.12.09)
+    - [html] [说说你对IE特有的数据存储userData的理解](https://github.com/haizlin/fe-interview/issues/1620)
+    - [css] [css中class和id选择器有什么区别？](https://github.com/haizlin/fe-interview/issues/1621)
+    - [js] [举例说明这三种方法map、reduce和filter的区别是什么？](https://github.com/haizlin/fe-interview/issues/1622)
+    - [软技能] [你是如何与空降领导相处的？](https://github.com/haizlin/fe-interview/issues/1623)
+
 - 第236天 (2019.12.08)
     - [html] [说说你对iframe属性sandbox的理解，它有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1616)
     - [css] [移动端页面不满一屏时如何实现满屏背景？](https://github.com/haizlin/fe-interview/issues/1617)
