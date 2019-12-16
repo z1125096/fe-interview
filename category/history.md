@@ -1,6 +1,30 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第243天 (2019.12.15)
+    - [html] [用什么代替html5中不再支持table的cellspacing和cellpadding属性？](https://github.com/haizlin/fe-interview/issues/1649)
+    - [css] [使用rem布局时怎样合理设置根标签字体大小？](https://github.com/haizlin/fe-interview/issues/1650)
+    - [js] [写一个方法实现“选择排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1651)
+    - [软技能] [你怎么和你身边的急性子或慢性子同事沟通？](https://github.com/haizlin/fe-interview/issues/1652)
+
+- 第242天 (2019.12.14)
+    - [html] [如何防止cookie被盗用？](https://github.com/haizlin/fe-interview/issues/1645)
+    - [css] [解释下css3的flexbox（弹性盒布局模型），以及它应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1646)
+    - [js] [说说你对js排序的理解，你有了解哪些算法呢？](https://github.com/haizlin/fe-interview/issues/1647)
+    - [软技能] [你有女朋友吗？你结婚了吗？有小孩吗？](https://github.com/haizlin/fe-interview/issues/1648)
+
+- 第241天 (2019.12.13)
+    - [html] [html的标签<a>除了用作跳转链接外，还有那些用途？](https://github.com/haizlin/fe-interview/issues/1641)
+    - [css] [你有使用过vmax和vmin吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/1642)
+    - [js] [请说说你对try/catch的理解，平时有在哪些场景会用到呢？](https://github.com/haizlin/fe-interview/issues/1643)
+    - [软技能] [说说你对开源项目的理解，它的意义何在？你有参与过开源项目吗？](https://github.com/haizlin/fe-interview/issues/1644)
+
+- 第240天 (2019.12.12)
+    - [html] [请说说什么是分区响应图？](https://github.com/haizlin/fe-interview/issues/1637)
+    - [css] [如何设置背景图片不随着文本内容的滚动而滚动？](https://github.com/haizlin/fe-interview/issues/1638)
+    - [js] [请实现一个计算器的功能](https://github.com/haizlin/fe-interview/issues/1639)
+    - [软技能] [你之前的公司有组织过分享会或者知识讲堂的活动吗？你有没有给同事分享过？](https://github.com/haizlin/fe-interview/issues/1640)
+
 - 第239天 (2019.12.11)
     - [html] [table由哪几部分组成？](https://github.com/haizlin/fe-interview/issues/1628)
     - [css] [css中兼容ie浏览器的前缀是什么? ](https://github.com/haizlin/fe-interview/issues/1629)
