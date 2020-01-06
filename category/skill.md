@@ -2,8 +2,22 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.12.15
+> 最新：2020.01.05
 
+- [说说你对冒烟测试的理解](https://github.com/haizlin/fe-interview/issues/1737)
+- [如何快速定位线上出现的问题？](https://github.com/haizlin/fe-interview/issues/1733)
+- [如果有些地区的用户反应网站很卡很慢，可能是什么原因造成的呢？怎么样去解决？](https://github.com/haizlin/fe-interview/issues/1729)
+- [你写的前端代码有做过单元测试吗？使用什么工具？怎么测试的？](https://github.com/haizlin/fe-interview/issues/1725)
+- [你开发过程中，都有用过哪些虚拟机？](https://github.com/haizlin/fe-interview/issues/1721)
+- [在实际中Git规范有哪些？](https://github.com/haizlin/fe-interview/issues/1717)
+- [你对算法和数据结构有了解吗？说说看](https://github.com/haizlin/fe-interview/issues/1713)
+- [为什么要在项目中使用CDN？](https://github.com/haizlin/fe-interview/issues/1709)
+- [你有开发过chrome插件吗？说说你的开发过程](https://github.com/haizlin/fe-interview/issues/1705)
+- [你是如何看待chrome将在2020年彻底放弃Flash？](https://github.com/haizlin/fe-interview/issues/1701)
+- [你上家公司是做什么的？](https://github.com/haizlin/fe-interview/issues/1697)
+- [如果你是上级领导，如何让团队中的成员成长起来呢？](https://github.com/haizlin/fe-interview/issues/1693)
+- [你了解你的团队吗？说说你对他们的了解](https://github.com/haizlin/fe-interview/issues/1689)
+- [你有新的想法或者学到了新的技术，你会应用到实际的项目中吗？](https://github.com/haizlin/fe-interview/issues/1684)
 - [你怎么和你身边的急性子或慢性子同事沟通？](https://github.com/haizlin/fe-interview/issues/1652)
 - [你有女朋友吗？你结婚了吗？有小孩吗？](https://github.com/haizlin/fe-interview/issues/1648)
 - [说说你对开源项目的理解，它的意义何在？你有参与过开源项目吗？](https://github.com/haizlin/fe-interview/issues/1644)

@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.12.16) —— 第244天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [HTML5图像相关的标签有哪些？](https://github.com/haizlin/fe-interview/issues/1653)
-- [css] [使用rem时应该注意什么？](https://github.com/haizlin/fe-interview/issues/1654)
-- [js] [写一个方法实现“交换排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1655)
-- [软技能] [有回老家发展的打算吗？](https://github.com/haizlin/fe-interview/issues/1656)
+## 今天的知识点 (2020.01.05) —— 第264天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [举例说明html5怎么判断网络状态？](https://github.com/haizlin/fe-interview/issues/1734)
+- [css] [sass是怎么定义变量的？](https://github.com/haizlin/fe-interview/issues/1735)
+- [js] [箭头函数的this值继承于哪里](https://github.com/haizlin/fe-interview/issues/1736)
+- [软技能] [说说你对冒烟测试的理解](https://github.com/haizlin/fe-interview/issues/1737)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第242天 (2019.12.14)
-    - [html] [如何防止cookie被盗用？](https://github.com/haizlin/fe-interview/issues/1645)
-    - [css] [解释下css3的flexbox（弹性盒布局模型），以及它应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1646)
-    - [js] [说说你对js排序的理解，你有了解哪些算法呢？](https://github.com/haizlin/fe-interview/issues/1647)
-    - [软技能] [你有女朋友吗？你结婚了吗？有小孩吗？](https://github.com/haizlin/fe-interview/issues/1648)
+- 第262天 (2020.01.03)
+    - [html] [移动端滚动穿透是什么原因？有哪些解决方案？](https://github.com/haizlin/fe-interview/issues/1726)
+    - [css] [为什么要使用sass/less？](https://github.com/haizlin/fe-interview/issues/1727)
+    - [js] [微任务和宏任务有什么区别？](https://github.com/haizlin/fe-interview/issues/1728)
+    - [软技能] [如果有些地区的用户反应网站很卡很慢，可能是什么原因造成的呢？怎么样去解决？](https://github.com/haizlin/fe-interview/issues/1729)
 
-- 第243天 (2019.12.15)
-    - [html] [用什么代替html5中不再支持table的cellspacing和cellpadding属性？](https://github.com/haizlin/fe-interview/issues/1649)
-    - [css] [使用rem布局时怎样合理设置根标签字体大小？](https://github.com/haizlin/fe-interview/issues/1650)
-    - [js] [写一个方法实现“选择排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1651)
-    - [软技能] [你怎么和你身边的急性子或慢性子同事沟通？](https://github.com/haizlin/fe-interview/issues/1652)
+- 第263天 (2020.01.04)
+    - [html] [html5怎么判断app是否安装？](https://github.com/haizlin/fe-interview/issues/1730)
+    - [css] [使用sass的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1731)
+    - [js] [举例说明object.freeze有哪些用途呢？](https://github.com/haizlin/fe-interview/issues/1732)
+    - [软技能] [如何快速定位线上出现的问题？](https://github.com/haizlin/fe-interview/issues/1733)
     
 - **[查看全部](category/history.md)**
 
@@ -166,6 +166,7 @@
 - 2019.10.10 — 第四次登上github热门榜，应该是坚持更新的结果，同时项目被[前端网](http://qianduan.cc)收录！
 - 2019.10.20 - 毕竟一个人的能力有限，集体的力量才是无限的！欢迎大家一起来贡献题目，为**前端面试每日3+1**开源社区贡献力量！点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 - 2019.11.13 — 第211天，第5次登上github热门榜！预计元旦前将会上线3+1的官网，敬请期待！
+- 2019.12.21 — 第249天，第6次登上github热门榜！最近好多朋友都在问，答案在哪？我的回答还是，没有答案，提倡主动思考！
 
 ## 在哪可以看到
 - [前端向朔](https://blog.csdn.net/u013778905/article/category/9098225)（CSDN每天同步更新）

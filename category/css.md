@@ -2,8 +2,22 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.12.15
+> 最新：2020.01.05
 
+- [sass是怎么定义变量的？](https://github.com/haizlin/fe-interview/issues/1735)
+- [使用sass的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1731)
+- [为什么要使用sass/less？](https://github.com/haizlin/fe-interview/issues/1727)
+- [你对伪类了解多少？分为几大类？](https://github.com/haizlin/fe-interview/issues/1723)
+- [分析比较opacity: 0、visibility: hidden、display: none三者的优劣和适用场景](https://github.com/haizlin/fe-interview/issues/1719)
+- [你知道什么是CSS-in-JS吗？说说你对它的了解](https://github.com/haizlin/fe-interview/issues/1715)
+- [你知道什么是聚焦环吗？怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1711)
+- [如何让一个块元素绝对居中？](https://github.com/haizlin/fe-interview/issues/1707)
+- [css的user-select:all 有什么用处？](https://github.com/haizlin/fe-interview/issues/1703)
+- [说说display:none和visibility:hidden的区别](https://github.com/haizlin/fe-interview/issues/1699)
+- [如何使用CSS绘制一个汉堡式菜单](https://github.com/haizlin/fe-interview/issues/1695)
+- [你是如何压缩字体的？](https://github.com/haizlin/fe-interview/issues/1691)
+- [如何修改美化radio、checkbox的默认样式？](https://github.com/haizlin/fe-interview/issues/1687)
+- [你有使用过postcss吗？它和less/scss/stylus有什么区别？](https://github.com/haizlin/fe-interview/issues/1682)
 - [使用rem布局时怎样合理设置根标签字体大小？](https://github.com/haizlin/fe-interview/issues/1650)
 - [解释下css3的flexbox（弹性盒布局模型），以及它应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1646)
 - [你有使用过vmax和vmin吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/1642)

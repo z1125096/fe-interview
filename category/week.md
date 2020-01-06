@@ -1,4 +1,4 @@
-# 周汇总 2019.12.15
+# 周汇总 2020.01.05
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [用什么代替html5中不再支持table的cellspacing和cellpadding属性？](https://github.com/haizlin/fe-interview/issues/1649)
-- [如何防止cookie被盗用？](https://github.com/haizlin/fe-interview/issues/1645)
-- [html的标签<a>除了用作跳转链接外，还有那些用途？](https://github.com/haizlin/fe-interview/issues/1641)
-- [请说说什么是分区响应图？](https://github.com/haizlin/fe-interview/issues/1637)
-- [table由哪几部分组成？](https://github.com/haizlin/fe-interview/issues/1628)
-- [浏览器怪异模式的怪异主要体现在哪方面呢？](https://github.com/haizlin/fe-interview/issues/1624)
-- [说说你对IE特有的数据存储userData的理解](https://github.com/haizlin/fe-interview/issues/1620)
+- [举例说明html5怎么判断网络状态？](https://github.com/haizlin/fe-interview/issues/1734)
+- [html5怎么判断app是否安装？](https://github.com/haizlin/fe-interview/issues/1730)
+- [移动端滚动穿透是什么原因？有哪些解决方案？](https://github.com/haizlin/fe-interview/issues/1726)
+- [你知道移动端的尺寸都有哪些吗？](https://github.com/haizlin/fe-interview/issues/1722)
+- [目前移动端的最小点击区域是多少呢？](https://github.com/haizlin/fe-interview/issues/1718)
+- [html5怎样和Native App进行交互？](https://github.com/haizlin/fe-interview/issues/1714)
+- [网站上怎么实现分享到各大平台呢？](https://github.com/haizlin/fe-interview/issues/1710)
 
 ## css
-- [使用rem布局时怎样合理设置根标签字体大小？](https://github.com/haizlin/fe-interview/issues/1650)
-- [解释下css3的flexbox（弹性盒布局模型），以及它应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1646)
-- [你有使用过vmax和vmin吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/1642)
-- [如何设置背景图片不随着文本内容的滚动而滚动？](https://github.com/haizlin/fe-interview/issues/1638)
-- [css中兼容ie浏览器的前缀是什么? ](https://github.com/haizlin/fe-interview/issues/1629)
-- [请问触发hasLayout的后果是什么？](https://github.com/haizlin/fe-interview/issues/1625)
-- [css中class和id选择器有什么区别？](https://github.com/haizlin/fe-interview/issues/1621)
+- [sass是怎么定义变量的？](https://github.com/haizlin/fe-interview/issues/1735)
+- [使用sass的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1731)
+- [为什么要使用sass/less？](https://github.com/haizlin/fe-interview/issues/1727)
+- [你对伪类了解多少？分为几大类？](https://github.com/haizlin/fe-interview/issues/1723)
+- [分析比较opacity: 0、visibility: hidden、display: none三者的优劣和适用场景](https://github.com/haizlin/fe-interview/issues/1719)
+- [你知道什么是CSS-in-JS吗？说说你对它的了解](https://github.com/haizlin/fe-interview/issues/1715)
+- [你知道什么是聚焦环吗？怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1711)
 
 ## js
-- [写一个方法实现“选择排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1651)
-- [说说你对js排序的理解，你有了解哪些算法呢？](https://github.com/haizlin/fe-interview/issues/1647)
-- [请说说你对try/catch的理解，平时有在哪些场景会用到呢？](https://github.com/haizlin/fe-interview/issues/1643)
-- [请实现一个计算器的功能](https://github.com/haizlin/fe-interview/issues/1639)
-- [写一个方法从数组中随机抽取N个不重复的元素](https://github.com/haizlin/fe-interview/issues/1630)
-- [遍历数组和对象的方法都有哪些？](https://github.com/haizlin/fe-interview/issues/1626)
-- [举例说明这三种方法map、reduce和filter的区别是什么？](https://github.com/haizlin/fe-interview/issues/1622)
+- [箭头函数的this值继承于哪里](https://github.com/haizlin/fe-interview/issues/1736)
+- [举例说明object.freeze有哪些用途呢？](https://github.com/haizlin/fe-interview/issues/1732)
+- [微任务和宏任务有什么区别？](https://github.com/haizlin/fe-interview/issues/1728)
+- [请比较下for、forEach、for of的性能的性能](https://github.com/haizlin/fe-interview/issues/1724)
+- [你有使用过BackboneJS吗？说说它和vue有什么区别？](https://github.com/haizlin/fe-interview/issues/1720)
+- [你有使用过ExtJs吗？说说它的优缺点是什么？](https://github.com/haizlin/fe-interview/issues/1716)
+- [写例子说明js中自定义事件的使用与触发](https://github.com/haizlin/fe-interview/issues/1712)
 
 ## 软技能
-- [你怎么和你身边的急性子或慢性子同事沟通？](https://github.com/haizlin/fe-interview/issues/1652)
-- [你有女朋友吗？你结婚了吗？有小孩吗？](https://github.com/haizlin/fe-interview/issues/1648)
-- [说说你对开源项目的理解，它的意义何在？你有参与过开源项目吗？](https://github.com/haizlin/fe-interview/issues/1644)
-- [你之前的公司有组织过分享会或者知识讲堂的活动吗？你有没有给同事分享过？](https://github.com/haizlin/fe-interview/issues/1640)
-- [你有参加过技术讨论会或者座谈会相关的活动吗？](https://github.com/haizlin/fe-interview/issues/1631)
-- [说下你对感染力的理解](https://github.com/haizlin/fe-interview/issues/1627)
-- [你是如何与空降领导相处的？](https://github.com/haizlin/fe-interview/issues/1623)
+- [说说你对冒烟测试的理解](https://github.com/haizlin/fe-interview/issues/1737)
+- [如何快速定位线上出现的问题？](https://github.com/haizlin/fe-interview/issues/1733)
+- [如果有些地区的用户反应网站很卡很慢，可能是什么原因造成的呢？怎么样去解决？](https://github.com/haizlin/fe-interview/issues/1729)
+- [你写的前端代码有做过单元测试吗？使用什么工具？怎么测试的？](https://github.com/haizlin/fe-interview/issues/1725)
+- [你开发过程中，都有用过哪些虚拟机？](https://github.com/haizlin/fe-interview/issues/1721)
+- [在实际中Git规范有哪些？](https://github.com/haizlin/fe-interview/issues/1717)
+- [你对算法和数据结构有了解吗？说说看](https://github.com/haizlin/fe-interview/issues/1713)
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)
